@@ -1,0 +1,39 @@
+MAVEN
+------
+Build Tools-->create the packages to the source code
+java-->Ant/MAVEN/GRADLE
+.net-->Nant/ms build
+Python-->Pybuilder
+Ruby-->Rake
+
+Sourcecode + Build Script
+
+Maven
+------
+Maven is an Open Source, java--based, build tool.
+
+Standlone application-->java--code
+(jar -->java Archive  .classfiles+manifiest files)
+
+Web application------>(html/css/...)
+(war--> jar files +web content)
+
+Enterprise application-->multiple modules..
+(ear--> war +jar files +resource files)
+
+
+{HelloWorld.java-->Sourcecode
+ javac HelloWorld.java
+ HelloWorld.class-->Bytecode-->JVM
+ java HelloWorld-->(run)}
+ 
+Maven dir structure
+---------------------
+
+bin: Binary files -->mvn
+conf: settings.xml
+lib: jar files
+
+Installation
+-------------
+pre --> JDK, JRE
