@@ -77,3 +77,10 @@ git push fb :branchname(deleting branch)
 .gitignore
 ------------
 keep file and dict in this file to ignore
+-----------------------------------------
+
+git tag
+git stash
+git cherry-pick
+git fetch
+git pull
