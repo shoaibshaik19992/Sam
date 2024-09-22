@@ -1,4 +1,4 @@
-git config --global user.name
+
 git config --global user.email
 git config --global --list
 
@@ -9,7 +9,7 @@ pwd
 
 git init ---> local repo
 
-working area		staging area		localare
+working area		staging area		local area
     git add .
  	git add fn1 fn2---->       git commit -m "comment"     
 	git add *
@@ -77,3 +77,61 @@ git push fb :branchname(deleting branch)
 .gitignore
 ------------
 keep file and dict in this file to ignore
+
+branch               tag
+-------             -----
+mutable             immutable
+on development      after prod deploy
+                   git tag
+                   git tag tagname
+                   git push fb tag tagname				    
+				   git push alaisname --tags
+
+git stash
+----------
+repo
+	|
+development
+	|
+master/main
+
+git stash list
+stash@{0}
+
+git stash apply stash@{0}
+git stash drop
+git stash pop stash@{0}
+
+git cherry_pick -->takes commitid and apply into other branch
+----------------
+repo
+	|
+git log
+development
+dC1 dC2 dC3
+	|
+master/main
+
+main>git cherry_pick CID
+
+git clone url
+git fetch an main pull alaisname main
+
+
+git
+Getting the error while pushing code
+SSH Keys
+--------
+SSH URL
+HTTPS URLS
+
+ssh-keygen-->creating ssh key 
+id_rsa     -->Private Key
+id_rsa/pub -->Public Key
+
+ssh-keygen -t dsa -->specfing algorithm
+~/.shh --> gen the ssh keys
+
+ssh -T git@github.com
+git remote add sshurl git@github:..
+

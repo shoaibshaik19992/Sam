@@ -1,0 +1,25 @@
+Navigation and Directory Control Commands
+-----------------------------------------
+
+cd
+ls
+pwd
+mkdir
+touch
+rmdir
+rm
+
+  linux         DOS
+  -----        -----  
+  mkdir        md&mkdir
+  ls			dir
+  cd			cd | chdir
+  pwd			cd
+  rmdir			rd | rmdir
+  cd			cd/
+  
+cp
+mv
+file
+vi 
+cat
