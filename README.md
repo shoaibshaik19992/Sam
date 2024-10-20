@@ -50,7 +50,7 @@ Dedicated and motivated Computer Science student specializing in Artificial Inte
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS">
   <img src="https://img.shields.io/badge/Linux%20(RedHat)-CC0000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux (RedHat)">
   <img src="https://img.shields.io/badge/Git-FFD43B?style=for-the-badge&logo=git&logoColor=black" alt="Git">
@@ -62,4 +62,7 @@ Dedicated and motivated Computer Science student specializing in Artificial Inte
   <img src="https://img.shields.io/badge/PySpark-E25A00?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark">
   <img src="https://img.shields.io/badge/AI%20&%20ML-FFCA28?style=for-the-badge&logo=googleai&logoColor=black" alt="AI & ML">
   <img src="https://img.shields.io/badge/Data%20Science-00A9E0?style=for-the-badge&logo=python&logoColor=white" alt="Data Science">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Networking-0089D6?style=for-the-badge&logo=network&logoColor=white" alt="Networking">
 </div>
